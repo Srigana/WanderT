@@ -1,4 +1,5 @@
 **This project is a Flask-based web application that allows users to interact with a chatbot that can process PDF files and answer questions based on the content extracted from them. It leverages various technologies, such as Google Generative AI, LangChain, and FAISS, to provide detailed responses to user queries.**
+
 **Features**
 PDF Upload and Processing:
 Users can upload PDF files, and the application will extract text from them.
