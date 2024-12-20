@@ -77,15 +77,15 @@ greetings = {
     "how are you": "I'm just a bot, but I'm here to help you!",
     "what's up": "Not much, just here to assist you!",
     "what is your name" : "I'm a chatbot here to assist you. You can call me Wander-T!",
-    "tell me about yourself" : "I'm a travel chatbot designed to assist you with various tasks and answer your questions to the best of my ability. If you have any specific questions or need assistance related to travel, feel free to ask, and I'll do my best to help you! ",
-    "who are you" : "I'm a travel chatbot designed to assist you with various tasks and answer your questions to the best of my ability. If you have any specific questions or need assistance related to travel, feel free to ask, and I'll do my best to help you!",
+    "tell me about yourself" : "I'm a travel chatbot designed to assist you with various tasks and answer your questions to the best of my ability. If you have any specific questions or need assistance related to telangana travel, feel free to ask, and I'll do my best to help you! ",
+    "who are you" : "I'm a travel chatbot designed to assist you with various tasks and answer your questions to the best of my ability. If you have any specific questions or need assistance related to telangana travel, feel free to ask, and I'll do my best to help you!",
     "bye" : "Byeee! Have a great day!",
     "thank you": "You're welcome! I'm here to help whenever you need assistance.",
     "what are you doing" : "I'm here, ready and waiting to assist you!",
-    "how can you help me" : "I'm a travel chatbot designed to assist you with various tasks and answer your questions to the best of my ability. If you have any specific questions or need assistance related to travel, feel free to ask, and I'll do my best to help you!",
-    "what can you do" : "I'm a travel chatbot designed to assist you with various tasks and answer your questions to the best of my ability. If you have any specific questions or need assistance related to travel, feel free to ask, and I'll do my best to help you!",
+    "how can you help me" : "I'm a travel chatbot designed to assist you with various tasks and answer your questions to the best of my ability. If you have any specific questions or need assistance related to telangana travel, feel free to ask, and I'll do my best to help you!",
+    "what can you do" : "I'm a travel chatbot designed to assist you with various tasks and answer your questions to the best of my ability. If you have any specific questions or need assistance related to telangana travel, feel free to ask, and I'll do my best to help you!",
     "are you a real person" : "No, I am not a real person.",
-    "who created you" : "I was created by Team G3 under the guidance of Dr. Sreejyothsna Ankam",
+    "who created you" : "I was created by Srigana Pulikantham",
     "do you have a name" : "Yes, my name is Wander-T"
 }
 
