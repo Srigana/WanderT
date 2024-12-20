@@ -48,3 +48,5 @@ python app.py
 * LangChain: For managing conversations and interactions.  
 * FAISS: For vector-based search of relevant information from PDFs.
 
+Project demonstration - https://drive.google.com/file/d/1fQwMhqJfbVrTmXjV7Z7lEymK_z6AkMJR/view?usp=sharing
+
